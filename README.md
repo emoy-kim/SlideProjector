@@ -23,7 +23,6 @@
   * **i key**: main camera and projector reset
   * **l key**: light turn on/off
   * **enter key**: project an image/video
-  * **space bar**: obejct change
   * **q/ESC key**: exit
 
 ## Mouse Commands
