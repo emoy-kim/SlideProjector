@@ -4,15 +4,6 @@
   
   
   
-## Test Environment
-  * Windows 10
-  * Visual Studio 2017
-  * Surface Book 2
-  
-## Library Dependencies
-  * OpenCV
-  * OpenGL
-
 ## Keyboard Commands
   * **Up Arrow**: move forward
   * **Down Arrow**: move backward
@@ -27,5 +18,5 @@
   * **q/ESC key**: exit
 
 ## Mouse Commands
-  * **Main camera**: moving with mouse left button clicked
-  * **Projector**: moving with mouse left button clicked pressing *the left control key*
+  * **Main camera**: moving with mouse left button clicked pressing *the left control key*
+  * **Projector**: moving with mouse left button clicked 
