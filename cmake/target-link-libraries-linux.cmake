@@ -9,4 +9,5 @@ target_link_libraries(
         opencv_core
         opencv_imgproc
         opencv_imgcodecs
+        opencv_videoio
 )
