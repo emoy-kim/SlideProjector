@@ -23,7 +23,7 @@ public:
 
 
    RendererGL();
-   ~RendererGL();
+   ~RendererGL() = default;
 
    void play();
 
